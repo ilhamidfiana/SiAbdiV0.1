@@ -2,4 +2,4 @@
 
 - Tambahkan file dataset untuk menyimpan foto2nya
 1. Silahkan buka file install librarynya dulu
-2. Silahkan buka SiAbdi maka akan langsung terbuka
+2. Silahkan buka SiAbdi.bat maka akan langsung terbuka sistem absensinya
